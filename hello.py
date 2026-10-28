@@ -10,3 +10,4 @@ if __name__ == "__main__":
     print(farewell("Evan"))
 
   print("自己提交")
+  print("这次试试用pycharm提交")
